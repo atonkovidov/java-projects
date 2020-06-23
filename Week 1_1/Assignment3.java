@@ -11,7 +11,7 @@ public class Assignment3 {
 				+ "indicates that x = " + x + " and y = " + y + ".");
 	}
 }
-
+ 
 
 /* Output (Split into two lines for easier viewing)
 
