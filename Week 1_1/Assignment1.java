@@ -1,6 +1,6 @@
 /* Program displays "JAVA" with each letter
    made up of the same, smaller letters.
- */
+*/
 
 public class Assignment1 {
 	
