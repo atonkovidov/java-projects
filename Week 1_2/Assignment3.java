@@ -1,4 +1,4 @@
-// Find the sum of all digits from a user-provided integer between 0 and 1000
+// Find the sum of all digits from a user-provided integer between 0 and 1000 
 
 import java.util.Scanner;
 
