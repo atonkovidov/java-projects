@@ -1,4 +1,4 @@
-// Program converts a user-provided Celsius value to Fahrenheit
+// Program converts a user-provided Celsius value to Fahrenheit 
 
 import java.util.Scanner;
 
