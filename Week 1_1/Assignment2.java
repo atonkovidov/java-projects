@@ -1,4 +1,4 @@
-// Uses a formula to compute a basic approximation of pi
+// Uses a formula to compute a basic approximation of PI
 
 public class Assignment2 {
 
