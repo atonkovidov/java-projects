@@ -1,4 +1,4 @@
-// Program sorts the columns of a user-entered 3-by-3 matrix
+// Program sorts the columns of a user-entered 3-by-3 matrix 
 
 import java.util.Scanner;
 
