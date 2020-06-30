@@ -1,4 +1,4 @@
-// Prompts a user to enter an integer and checks whether it is a palindrome or not
+// Prompts a user to enter an integer and checks whether it is a palindrome or not 
 
 import java.util.Scanner;
 
