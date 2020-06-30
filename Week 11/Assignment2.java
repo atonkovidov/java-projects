@@ -1,5 +1,5 @@
 // Create a file that is given 100 randomly created integers
-// and then display them in increasing order
+// and then display them in increasing order 
 
 import java.util.Scanner;
 import java.util.Arrays;
