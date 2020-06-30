@@ -1,4 +1,4 @@
-// Recursive method to display all permutations of a string
+// Recursive method to display all permutations of a string 
 
 import java.util.Scanner;
 
