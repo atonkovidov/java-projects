@@ -1,4 +1,4 @@
-// Finding the sum of all elements in diagonal of a 4x4 matrix
+// Finding the sum of all elements in diagonal of a 4x4 matrix 
 
 import java.util.Scanner;
 
