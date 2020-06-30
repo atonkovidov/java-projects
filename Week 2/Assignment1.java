@@ -1,4 +1,4 @@
-// Find and display roots using the Quadratic Formula, accounting for one, two, or zero real roots
+// Find and display roots using the Quadratic Formula, accounting for one, two, or zero real roots 
 
 import java.util.Scanner;
 
