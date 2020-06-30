@@ -1,4 +1,4 @@
-// A calculator that accepts operands separated by zero or more spaces
+// A calculator that accepts operands separated by zero or more spaces 
 
 public class Assignment3 {
 
