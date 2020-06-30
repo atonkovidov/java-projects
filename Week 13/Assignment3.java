@@ -3,7 +3,7 @@
 import java.util.*;
 
 public class Assignment3 {
-// solution by Takyiu Liu, West Valley College, summer 2019
+// solution by Takyiu Liu, West Valley College, summer 2019 (my work below)
 	public static void main(String[] args) {
 		Stack<String> stack = new Stack<>();
 		for (int i = 50; i <= 500; i++) {
