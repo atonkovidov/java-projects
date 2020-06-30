@@ -1,5 +1,5 @@
 // Program prompts user to enter a positive integer
-// and displays all its smallest factors in decreasing order
+// and displays all its smallest factors in decreasing order 
 
 import java.util.Scanner;
 
