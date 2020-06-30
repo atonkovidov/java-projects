@@ -1,4 +1,4 @@
-// Program displays PI value approximation for numerous iterations of a common formula
+// Program displays PI value approximation for numerous iterations of a common formula 
 
 public class Assignment2 {
 
