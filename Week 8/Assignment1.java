@@ -1,5 +1,5 @@
 // A stopwatch class that can be started and stopped to track elapsed time
-// The class is tested by tracking how long 100,000 numbers are sorted
+// The class is tested by tracking how long 100,000 numbers are sorted 
 
 public class Assignment1 {
 	
