@@ -1,5 +1,5 @@
 
-// Program merges two user-provided sorted lists into a new sorted list
+// Program merges two user-provided sorted lists into a new sorted list 
 
 import java.util.Scanner;
 
