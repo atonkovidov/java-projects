@@ -1,4 +1,4 @@
-// Displays the shipping cost of a package with a user-specified weight
+// Displays the shipping cost of a package with a user-specified weight 
 
 import java.util.Scanner;
 
