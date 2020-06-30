@@ -1,4 +1,4 @@
-// Program adds numbers into a queue and then displays in first-in first-out order
+// Program adds numbers into a queue and then displays in first-in first-out order 
 
 public class Assignment2 {
 
