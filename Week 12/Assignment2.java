@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-// Adding numerous fractions together using the given Rational class (part dos)
+// Adding numerous fractions together using the given Rational class (part dos) 
 
 public class Assignment2 {
 	public static void main(String[] args) {
