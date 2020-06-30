@@ -1,4 +1,4 @@
-// Fill a matrix randomly with 0s and 1s and find the row and column with the most 1s
+// Fill a matrix randomly with 0s and 1s and find the row and column with the most 1s 
 
 import java.util.ArrayList;
 import java.util.Scanner;
