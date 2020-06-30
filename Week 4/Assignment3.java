@@ -1,5 +1,5 @@
 // Ask user for year and first day of the week of that year
-// and then print out the year's full calendar
+// and then print out the year's full calendar 
 
 import java.util.Scanner;
 
