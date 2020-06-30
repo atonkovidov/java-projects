@@ -1,4 +1,4 @@
-// Program reads user-provided information and prints out a payroll statement
+// Program reads user-provided information and prints out a payroll statement 
 
 import java.util.Scanner;
 
