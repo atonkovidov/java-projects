@@ -1,4 +1,4 @@
-// A recursive method for finding the GCD of two user-provided integers
+// A recursive method for finding the GCD of two user-provided integers 
 
 import java.util.Scanner;
 
