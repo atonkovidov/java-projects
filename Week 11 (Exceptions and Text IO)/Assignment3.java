@@ -1,4 +1,4 @@
-// Scan and analyze how many times specific words show up in the Mueller Report 
+// Scan and analyze how many times specific words show up in the Mueller Report
 
 import java.util.Scanner;
 
