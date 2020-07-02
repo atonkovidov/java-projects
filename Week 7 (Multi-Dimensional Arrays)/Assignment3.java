@@ -1,4 +1,4 @@
-// Display a corresponding Heads/Tails matrix based on a binary conversion of a user-entered number 
+// Display a corresponding Heads/Tails matrix based on a binary conversion of a user-entered number
 
 import java.util.Scanner;
 
