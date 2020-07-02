@@ -1,5 +1,5 @@
 // A class that creates an account object with various information in it
-// and prints out balance, monthly interest, and date of account creation 
+// and prints out balance, monthly interest, and date of account creation
 
 import java.util.Date;
 
