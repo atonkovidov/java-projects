@@ -1,4 +1,4 @@
-// A program that automatically plays a game of craps for the user 
+// A program that automatically plays a game of craps for the user
 
 public class Assignment2 {
 	
