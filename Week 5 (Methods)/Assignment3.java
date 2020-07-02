@@ -1,4 +1,4 @@
-// Calculate day of the week using Zeller's congruence 
+// Calculate day of the week using Zeller's congruence
 
 import java.util.Scanner;
 
