@@ -1,5 +1,5 @@
 // Program prompts user to enter students' information and then prints their names
-// in decreasing order according to their scores 
+// in decreasing order according to their scores
 
 import java.util.Scanner;
 
