@@ -1,4 +1,4 @@
-// Calculator program that has an exception handler for dealing with nonnumeric operands 
+// Calculator program that has an exception handler for dealing with nonnumeric operands
 
 public class Assignment1 {
 	public static void main(String[] args) {
