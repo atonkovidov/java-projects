@@ -1,4 +1,4 @@
-// Revising a previous method of finding prime numbers 
+// Revising a previous method of finding prime numbers
 
 public class Assignment1 {
 
