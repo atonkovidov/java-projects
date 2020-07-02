@@ -1,4 +1,4 @@
-// Finds values of x and y in a given set of equations using Cramer's rule
+// Finds values of x and y in a given set of equations using Cramer's rule 
 
 public class Assignment3 {
 	
