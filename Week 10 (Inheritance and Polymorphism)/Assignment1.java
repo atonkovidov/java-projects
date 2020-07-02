@@ -1,4 +1,4 @@
-// Program creates and displays information for a standard Account and two Account subclasses 
+// Program creates and displays information for a standard Account and two Account subclasses
 
 public class Assignment1 {
 	
