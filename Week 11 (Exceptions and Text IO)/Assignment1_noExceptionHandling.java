@@ -1,4 +1,4 @@
-// Calculator program that deals with nonnumeric operands without exception handling 
+// Calculator program that deals with nonnumeric operands without exception handling
 
 import java.util.Scanner;
 
