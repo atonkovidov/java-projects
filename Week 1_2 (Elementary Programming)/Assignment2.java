@@ -1,4 +1,4 @@
-// Program calculates the distance between two user-provided points 
+// Program calculates the distance between two user-provided points
 
 import java.util.Scanner;
 
