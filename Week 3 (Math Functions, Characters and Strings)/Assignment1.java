@@ -1,4 +1,4 @@
-// Converts and displays a user-provided integer between 0 and 15 to the corresponding hex number 
+// Converts and displays a user-provided integer between 0 and 15 to the corresponding hex number
 
 import java.util.Scanner;
 
