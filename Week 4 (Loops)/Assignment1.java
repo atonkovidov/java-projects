@@ -1,4 +1,4 @@
-// Finds the smallest factors of an integer and displays them in increasing order
+// Finds the smallest factors of an integer and displays them in increasing order 
 
 import java.util.Scanner;
 
