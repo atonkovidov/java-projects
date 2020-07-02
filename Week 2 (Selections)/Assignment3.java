@@ -1,4 +1,4 @@
-// Program simulates picking a random card from a deck of 52 cards 
+// Program simulates picking a random card from a deck of 52 cards
 
 public class Assignment3 {
 
