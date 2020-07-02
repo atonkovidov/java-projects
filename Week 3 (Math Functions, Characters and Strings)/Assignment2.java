@@ -1,4 +1,4 @@
-// Program prompts user to enter a properly formatted SSN and checks its validity 
+// Program prompts user to enter a properly formatted SSN and checks its validity
 
 import java.util.Scanner;
 
