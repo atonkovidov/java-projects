@@ -1,4 +1,4 @@
-// Prints an account summary with a list of all transactions 
+// Prints an account summary with a list of all transactions
 
 public class Assignment2 {
 	public static void main(String[] args) {
