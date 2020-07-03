@@ -1,4 +1,4 @@
-// Program to play the Teddy Bear game with the goal of 42
+// Program to play the Teddy Bear game with the goal of 42 
 
 import java.util.*;
 
