@@ -1,4 +1,4 @@
-// Adding numerous fractions together using the given Rational class 
+// Adding numerous fractions together using the given Rational class
 
 public class Assignment1 {
 	public static void main(String[] args) {
